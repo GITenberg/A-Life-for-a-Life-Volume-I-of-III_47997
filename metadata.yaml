@@ -1,0 +1,28 @@
+_repo: A-Life-for-a-Life-Volume-I-of-III_47997
+creator:
+  authors:
+  - agent_name: Sutton, Margaret
+    gutenberg_agent_id: '44495'
+    url: http://www.gutenberg.org/2009/agents/44495
+  - agent_name: Craik, Dinah Maria Mulock
+    aliases:
+    - Mulock, Miss
+    - Mulock, Dinah Maria
+    birthdate: 1826
+    deathdate: 1887
+    gutenberg_agent_id: '264'
+    url: http://www.gutenberg.org/2009/agents/264
+    wikipedia: http://en.wikipedia.org/wiki/Dinah_Craik
+description: Judy Bolton investigates the mysterious disappearance of her friend,
+  Irene, and encounters missing manuscripts, the mysterious appearance of Irene's
+  dead mother, and an attempted murder.
+gutenberg_issued: '2015-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: A Life for a Life, Volume I (of III)
+url: http://www.gutenberg.org/ebooks/47997
