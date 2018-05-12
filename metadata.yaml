@@ -1,4 +1,8 @@
 _repo: A-Life-for-a-Life-Volume-I-of-III_47997
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Sutton, Margaret
@@ -16,6 +20,8 @@ creator:
 description: Judy Bolton investigates the mysterious disappearance of her friend,
   Irene, and encounters missing manuscripts, the mysterious appearance of Irene's
   dead mother, and an attempted murder.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47997#A-Life-for-a-Life-Volume-I-of-III
 gutenberg_issued: '2015-03-13'
 gutenberg_type: Text
 identifiers:
